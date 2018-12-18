@@ -3,5 +3,4 @@ Excel tool
 
 this tool provide some functions to analyse Excel
 
-当前支持功能：
-1. 表格到处为图表，图表支持折线图与柱状图
+1. Excel支持版本为2010，表格导出图表支持折线图与柱状图，数据格式详见方法定义
